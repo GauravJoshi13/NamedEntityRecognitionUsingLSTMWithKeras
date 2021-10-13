@@ -1,6 +1,6 @@
 # Named Entity Recognition using LSTMs with Keras
 
-Now we will build and train a bi-directional LSTM neural network to recognize named entities in text data. We will accomplish it by completing each task in the project:
+We will build and train a bi-directional LSTM neural network to recognize named entities in text data. We will accomplish it by completing each task in the project:
 
 **Task 1**:  Project Overview and Import Modules
 
